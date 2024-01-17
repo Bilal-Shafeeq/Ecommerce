@@ -14,7 +14,7 @@ const Navbar = () => {
 
   return (
     <nav className='flex flex-col sm:flex-row justify-between items-center shadow-md lg:h-[7vh]  sm:px-8 md:px-16 lg:px-20 hover:shadow-purple-300 mt-4 lg:mt-0'>
-      <h3 className='font-extrabold text-2xl mb-2 sm:mb-0'><Link to="/">Project1</Link></h3>
+      <h3 className='font-extrabold text-2xl mb-2 sm:mb-0'><Link to="/">ShopFusion</Link></h3>
       <div className='flex items-center mt-3 lg:mt-0 '>
         <input
           type="search"
